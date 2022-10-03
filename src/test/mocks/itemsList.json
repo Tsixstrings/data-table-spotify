@@ -1,0 +1,689 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    "followers": {
+      "href": null,
+      "total": 5813146
+    },
+    "genres": [
+      "acid rock",
+      "album rock",
+      "blues rock",
+      "classic rock",
+      "hard rock",
+      "proto-metal",
+      "psychedelic rock",
+      "rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/776Uo845nYHJpNaStv1Ds4",
+    "id": "776Uo845nYHJpNaStv1Ds4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb31f6ab67e6025de876475814",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab6761610000517431f6ab67e6025de876475814",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f17831f6ab67e6025de876475814",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Hendrix",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:776Uo845nYHJpNaStv1Ds4"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+    },
+    "followers": {
+      "href": null,
+      "total": 2231172
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1oSPZhvZMIrWW5I41kPkkY",
+    "id": "1oSPZhvZMIrWW5I41kPkkY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc04289f84778ad850cfcddca",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174c04289f84778ad850cfcddca",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178c04289f84778ad850cfcddca",
+        "width": 160
+      }
+    ],
+    "name": "Jimin",
+    "popularity": 65,
+    "type": "artist",
+    "uri": "spotify:artist:1oSPZhvZMIrWW5I41kPkkY"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+    },
+    "followers": {
+      "href": null,
+      "total": 7110
+    },
+    "genres": ["alternative ccm", "ccm"],
+    "href": "https://api.spotify.com/v1/artists/3klvuxan8KcvysB5d9q7Ls",
+    "id": "3klvuxan8KcvysB5d9q7Ls",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb203578f5fdeaa15be5d3ff2d",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174203578f5fdeaa15be5d3ff2d",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178203578f5fdeaa15be5d3ff2d",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Cravity",
+    "popularity": 40,
+    "type": "artist",
+    "uri": "spotify:artist:3klvuxan8KcvysB5d9q7Ls"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+    },
+    "followers": {
+      "href": null,
+      "total": 615327
+    },
+    "genres": ["k-pop"],
+    "href": "https://api.spotify.com/v1/artists/2YXlVLKq3X3soXd2aXUtIT",
+    "id": "2YXlVLKq3X3soXd2aXUtIT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdbabadb9f03b5b3d5e0241e5",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174dbabadb9f03b5b3d5e0241e5",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178dbabadb9f03b5b3d5e0241e5",
+        "width": 160
+      }
+    ],
+    "name": "JAMIE",
+    "popularity": 55,
+    "type": "artist",
+    "uri": "spotify:artist:2YXlVLKq3X3soXd2aXUtIT"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+    },
+    "followers": {
+      "href": null,
+      "total": 3995363
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/6HaGTQPmzraVmaVxvz6EUc",
+    "id": "6HaGTQPmzraVmaVxvz6EUc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebbda88c5ee506aa67c8835d30",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174bda88c5ee506aa67c8835d30",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178bda88c5ee506aa67c8835d30",
+        "width": 160
+      }
+    ],
+    "name": "Jung Kook",
+    "popularity": 76,
+    "type": "artist",
+    "uri": "spotify:artist:6HaGTQPmzraVmaVxvz6EUc"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+    },
+    "followers": {
+      "href": null,
+      "total": 12250
+    },
+    "genres": ["norwegian indie"],
+    "href": "https://api.spotify.com/v1/artists/5rXanKVc707nhQmW1Is2pB",
+    "id": "5rXanKVc707nhQmW1Is2pB",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe108d3dcdd3597a3cabcfbdb",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174e108d3dcdd3597a3cabcfbdb",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178e108d3dcdd3597a3cabcfbdb",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Somewhere",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:5rXanKVc707nhQmW1Is2pB"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+    },
+    "followers": {
+      "href": null,
+      "total": 216551
+    },
+    "genres": ["k-pop"],
+    "href": "https://api.spotify.com/v1/artists/3OBkZ9NG8F0Fn4oNpg0yuU",
+    "id": "3OBkZ9NG8F0Fn4oNpg0yuU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb5a271792f7cf279b71285261",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051745a271792f7cf279b71285261",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1785a271792f7cf279b71285261",
+        "width": 160
+      }
+    ],
+    "name": "HA SUNG WOON",
+    "popularity": 66,
+    "type": "artist",
+    "uri": "spotify:artist:3OBkZ9NG8F0Fn4oNpg0yuU"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+    },
+    "followers": {
+      "href": null,
+      "total": 21874
+    },
+    "genres": ["swiss house"],
+    "href": "https://api.spotify.com/v1/artists/6RsLLSkSTcL4YrvgRcBTQd",
+    "id": "6RsLLSkSTcL4YrvgRcBTQd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb1a8735884536d9ad3c6eada0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051741a8735884536d9ad3c6eada0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1781a8735884536d9ad3c6eada0",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Jules",
+    "popularity": 46,
+    "type": "artist",
+    "uri": "spotify:artist:6RsLLSkSTcL4YrvgRcBTQd"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+    },
+    "followers": {
+      "href": null,
+      "total": 15893
+    },
+    "genres": ["tejano"],
+    "href": "https://api.spotify.com/v1/artists/0VKuugYO6uuSOCGO62vk0M",
+    "id": "0VKuugYO6uuSOCGO62vk0M",
+    "images": [
+      {
+        "height": 1145,
+        "url": "https://i.scdn.co/image/1ebe6a6c16302e2cae3c1989d3aec5b77decc415",
+        "width": 1000
+      },
+      {
+        "height": 733,
+        "url": "https://i.scdn.co/image/74cf72caa0eb7033dac999c24f3a06bb49d0e8a2",
+        "width": 640
+      },
+      {
+        "height": 229,
+        "url": "https://i.scdn.co/image/369e45be660e5c9cfcdaee691d7730ab64bd4557",
+        "width": 200
+      },
+      {
+        "height": 73,
+        "url": "https://i.scdn.co/image/68a79763851ddd2cae3d0d4946bb73f231380dce",
+        "width": 64
+      }
+    ],
+    "name": "Flaco Jimenez",
+    "popularity": 41,
+    "type": "artist",
+    "uri": "spotify:artist:0VKuugYO6uuSOCGO62vk0M"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0JsJlrgqL1MRUEvzpLfXFX"
+    },
+    "followers": {
+      "href": null,
+      "total": 5644
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/0JsJlrgqL1MRUEvzpLfXFX",
+    "id": "0JsJlrgqL1MRUEvzpLfXFX",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7a4452875a6e37bdf5b21899",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051747a4452875a6e37bdf5b21899",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1787a4452875a6e37bdf5b21899",
+        "width": 160
+      }
+    ],
+    "name": "Jimin",
+    "popularity": 15,
+    "type": "artist",
+    "uri": "spotify:artist:0JsJlrgqL1MRUEvzpLfXFX"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1KW04GdOuzrsTVOAVd6eRg"
+    },
+    "followers": {
+      "href": null,
+      "total": 23274
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1KW04GdOuzrsTVOAVd6eRg",
+    "id": "1KW04GdOuzrsTVOAVd6eRg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7dc1614aed70536a9f3d0416",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051747dc1614aed70536a9f3d0416",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1787dc1614aed70536a9f3d0416",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Tents",
+    "popularity": 30,
+    "type": "artist",
+    "uri": "spotify:artist:1KW04GdOuzrsTVOAVd6eRg"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+    },
+    "followers": {
+      "href": null,
+      "total": 3295091
+    },
+    "genres": ["k-pop"],
+    "href": "https://api.spotify.com/v1/artists/5vV3bFXnN6D6N3Nj4xRvaV",
+    "id": "5vV3bFXnN6D6N3Nj4xRvaV",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebca1baa7848fd23126464f961",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174ca1baa7848fd23126464f961",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178ca1baa7848fd23126464f961",
+        "width": 160
+      }
+    ],
+    "name": "JIN",
+    "popularity": 60,
+    "type": "artist",
+    "uri": "spotify:artist:5vV3bFXnN6D6N3Nj4xRvaV"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/64HBdKvWVbP9ZwvprrQcdJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 199
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/64HBdKvWVbP9ZwvprrQcdJ",
+    "id": "64HBdKvWVbP9ZwvprrQcdJ",
+    "images": [],
+    "name": "Jimi Ono",
+    "popularity": 29,
+    "type": "artist",
+    "uri": "spotify:artist:64HBdKvWVbP9ZwvprrQcdJ"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+    },
+    "followers": {
+      "href": null,
+      "total": 9774390
+    },
+    "genres": ["j-division", "korean ost"],
+    "href": "https://api.spotify.com/v1/artists/3JsHnjpbhX4SnySpvpa9DK",
+    "id": "3JsHnjpbhX4SnySpvpa9DK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb5019ee2d3fd46b3c26071878",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051745019ee2d3fd46b3c26071878",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1785019ee2d3fd46b3c26071878",
+        "width": 160
+      }
+    ],
+    "name": "V",
+    "popularity": 66,
+    "type": "artist",
+    "uri": "spotify:artist:3JsHnjpbhX4SnySpvpa9DK"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+    },
+    "followers": {
+      "href": null,
+      "total": 1833931
+    },
+    "genres": ["k-pop"],
+    "href": "https://api.spotify.com/v1/artists/0ebNdVaOfp6N0oZ1guIxM8",
+    "id": "0ebNdVaOfp6N0oZ1guIxM8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0fad315ccb6b38517152d2cc",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab676161000051740fad315ccb6b38517152d2cc",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f1780fad315ccb6b38517152d2cc",
+        "width": 160
+      }
+    ],
+    "name": "SUGA",
+    "popularity": 69,
+    "type": "artist",
+    "uri": "spotify:artist:0ebNdVaOfp6N0oZ1guIxM8"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1544E8MlTH2tHCuSp4huUS"
+    },
+    "followers": {
+      "href": null,
+      "total": 2488
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1544E8MlTH2tHCuSp4huUS",
+    "id": "1544E8MlTH2tHCuSp4huUS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb364870b339c11c300be3dff0",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174364870b339c11c300be3dff0",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178364870b339c11c300be3dff0",
+        "width": 160
+      }
+    ],
+    "name": "Jimi D",
+    "popularity": 28,
+    "type": "artist",
+    "uri": "spotify:artist:1544E8MlTH2tHCuSp4huUS"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+    },
+    "followers": {
+      "href": null,
+      "total": 145355
+    },
+    "genres": [
+      "acid rock",
+      "blues rock",
+      "classic garage rock",
+      "classic rock",
+      "country rock",
+      "folk rock",
+      "freakbeat",
+      "psychedelic rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0a63dfrxBQKqh160P8iUNL",
+    "id": "0a63dfrxBQKqh160P8iUNL",
+    "images": [
+      {
+        "height": 697,
+        "url": "https://i.scdn.co/image/b2e3a58983247c8afde732ec825f38ad1d492102",
+        "width": 1000
+      },
+      {
+        "height": 446,
+        "url": "https://i.scdn.co/image/deafcdc1f37117439a1184bddd53d29371c63599",
+        "width": 640
+      },
+      {
+        "height": 139,
+        "url": "https://i.scdn.co/image/3d00de5c73e4af71be7060ddd09ba45ffb3a1180",
+        "width": 200
+      },
+      {
+        "height": 45,
+        "url": "https://i.scdn.co/image/2336fde515cfaa317ac65e32138f90e798a6535b",
+        "width": 64
+      }
+    ],
+    "name": "Country Joe & The Fish",
+    "popularity": 43,
+    "type": "artist",
+    "uri": "spotify:artist:0a63dfrxBQKqh160P8iUNL"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1bAeb4kHa1nNLk8GBkDVDn"
+    },
+    "followers": {
+      "href": null,
+      "total": 1173
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1bAeb4kHa1nNLk8GBkDVDn",
+    "id": "1bAeb4kHa1nNLk8GBkDVDn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730dbf1d4b7f11a06333416ad0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020dbf1d4b7f11a06333416ad0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510dbf1d4b7f11a06333416ad0",
+        "width": 64
+      }
+    ],
+    "name": "JIMINI",
+    "popularity": 38,
+    "type": "artist",
+    "uri": "spotify:artist:1bAeb4kHa1nNLk8GBkDVDn"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+    },
+    "followers": {
+      "href": null,
+      "total": 461057
+    },
+    "genres": [
+      "acoustic blues",
+      "blues",
+      "blues rock",
+      "chicago blues",
+      "classic rock",
+      "delta blues",
+      "harmonica blues",
+      "memphis blues",
+      "traditional blues"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0Wxy5Qka8BN9crcFkiAxSR",
+    "id": "0Wxy5Qka8BN9crcFkiAxSR",
+    "images": [
+      {
+        "height": 1100,
+        "url": "https://i.scdn.co/image/c2408f7f93e582b422af47aa72904a24397029d9",
+        "width": 818
+      },
+      {
+        "height": 861,
+        "url": "https://i.scdn.co/image/42a40543d2bde12565d33ee74a2566fd85b0c9f5",
+        "width": 640
+      },
+      {
+        "height": 269,
+        "url": "https://i.scdn.co/image/d436651ba6b691a4b1bf631e1020d04967c16089",
+        "width": 200
+      },
+      {
+        "height": 86,
+        "url": "https://i.scdn.co/image/2e43a2813672ed781d2395808c46957ae566197d",
+        "width": 64
+      }
+    ],
+    "name": "Howlin' Wolf",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:0Wxy5Qka8BN9crcFkiAxSR"
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2c7W5Wrgn9aGrqtSFrHa1a"
+    },
+    "followers": {
+      "href": null,
+      "total": 10173
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2c7W5Wrgn9aGrqtSFrHa1a",
+    "id": "2c7W5Wrgn9aGrqtSFrHa1a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb0188864dfee9d3d493f8bff",
+        "width": 640
+      },
+      {
+        "height": 320,
+        "url": "https://i.scdn.co/image/ab67616100005174b0188864dfee9d3d493f8bff",
+        "width": 320
+      },
+      {
+        "height": 160,
+        "url": "https://i.scdn.co/image/ab6761610000f178b0188864dfee9d3d493f8bff",
+        "width": 160
+      }
+    ],
+    "name": "Jimi Charles Moody",
+    "popularity": 28,
+    "type": "artist",
+    "uri": "spotify:artist:2c7W5Wrgn9aGrqtSFrHa1a"
+  }
+]

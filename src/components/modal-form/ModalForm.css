@@ -1,0 +1,16 @@
+.modal-form {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+}
+.modal-form .MuiPaper-root {
+  padding: 20px;
+}
+
+.center-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 50px;
+  flex-direction: column;
+}
+.table-container {
+  width: 500px;
+}
+
+.rows {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+}
+.header,
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.cell {
+  min-width: 20%;
+  border: 1px solid black;
+}
+.cell-content-centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background-color: #4EB367 !important;
+  color: black !important;
+  font-weight: bold !important;
+}
